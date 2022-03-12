@@ -422,19 +422,19 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
             ],[
 
-            InlineKeyboardButton('♻️ GROUP ♻️', url='https://t.me/movies_vers_talks'),
+            InlineKeyboardButton('🧬 GROUP 🧬', url='https://t.me/movies_vers_talks'),
 
           
 
-            InlineKeyboardButton('🔥dev🔥', url='https://t.me/mr_groot06')],
+            InlineKeyboardButton('🤴dev', url='https://t.me/mr_groot06')],
 
-           [ InlineKeyboardButton('😎 About', callback_data='about'),
+           [ InlineKeyboardButton('🧨 About', callback_data='about'),
 
             
 
   
 
-            InlineKeyboardButton('⚙️ Help', callback_data='help')
+            InlineKeyboardButton('🍂 Help', callback_data='help')
 
         ]]
         await query.message.edit_text(
