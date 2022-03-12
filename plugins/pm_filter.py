@@ -422,11 +422,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
             ],[
 
-            InlineKeyboardButton('🧬 GROUP 🧬', url='https://t.me/movies_vers_talks'),
+            InlineKeyboardButton('🧬 GROUP 🧬', url='https://t.me/ML_MOVIE_LOKAM'),
 
           
 
-            InlineKeyboardButton('🤴 DEV', url='https://t.me/mr_groot06')],
+            InlineKeyboardButton('🤴 DEV', url='https://t.me/Bad_Bunny_444')],
 
            [ InlineKeyboardButton('🧨 ABOUT', callback_data='about'),
 
