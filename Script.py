@@ -4,7 +4,7 @@ class script(object):
 
 ⚠️ 𝙼𝚘𝚛𝚎 𝙷𝚎𝚕𝚙 𝙲𝚑𝚎𝚌𝚔 𝙷𝚎𝚕𝚙 𝙱𝚞𝚝𝚝𝚘𝚗 𝙱𝚎𝚕𝚘𝚠
 
-©️ᵀʰᵉ вα∂ вυηηу 🇮🇳/🇬🇧 <a href=https://t.me/Bad_Bunny_444>ᵀʰᵉ вα∂ вυηηу 🇮🇳/🇬🇧</a>"""
+©️Creator <a href=https://t.me/Bad_Bunny_444>ᵀʰᵉ вα∂ вυηηу 🇮🇳/🇬🇧</a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
