@@ -4,7 +4,7 @@ class script(object):
 
 ⚠️ 𝙼𝚘𝚛𝚎 𝙷𝚎𝚕𝚙 𝙲𝚑𝚎𝚌𝚔 𝙷𝚎𝚕𝚙 𝙱𝚞𝚝𝚝𝚘𝚗 𝙱𝚎𝚕𝚘𝚠
 
-©️ᵀʰᵉ вα∂ вυηηу 🇮🇳/🇬🇧 <a href=https://t.me/Bad_Bunny_444>ᴍʀ ᴍɪᴋᴇʏ</a>"""
+©️ᵀʰᵉ вα∂ вυηηу 🇮🇳/🇬🇧 <a href=https://t.me/Bad_Bunny_444>ᵀʰᵉ вα∂ вυηηу 🇮🇳/🇬🇧</a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
@@ -45,7 +45,7 @@ My name is ｓｔｅｌｌａ
 3. buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/Ls_Supportz)</code>
+<code>[Button Text](buttonurl:https://t.me/ML_MOVIE_LOKAM)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -103,7 +103,7 @@ This module only works for my admins
 ★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
 ★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
     DONATE_TXT = """<Hey {}
-[Here is the Donation Link](https://t.me/Ak_Botdevelopers/15) ❤"""
+[For Donations Contact](https://t.me/Bad_Bunny_444) ❤"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
