@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/Akbotmakersnew",
-    "repository": "https://github.com/Akbotmakersnew/LUCIFER",
+    "repository": "https://github.com/Probotmaker8/LUCIFER",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
