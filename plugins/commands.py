@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('♻️ GROUP ♻️', url='https://t.me/movies_vers_talks')
+                InlineKeyboardButton('♻️ GROUP ♻️', url='https://t.me/ML_MOVIE_LOKAM')
             ],
             [
                 InlineKeyboardButton('⚙️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -45,9 +45,9 @@ async def start(client, message):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
 
-            InlineKeyboardButton('♻️ GROUP ♻️', url='https://t.me/movies_vers_talks'),
+            InlineKeyboardButton('♻️ GROUP ♻️', url='https://t.me/ML_MOVIE_LOKAM'),
           
-            InlineKeyboardButton('🔥 dev 🔥', url='https://t.me/mr_groot06')],
+            InlineKeyboardButton('🔥 dev 🔥', url='https://t.me/Bad_Bunny_444')],
            [ InlineKeyboardButton('😎 About', callback_data='about'),
             
   
@@ -93,11 +93,11 @@ async def start(client, message):
 
             ],[
 
-            InlineKeyboardButton('♻️ GROUP ♻️', url='https://t.me/movies_vers_talks'),
+            InlineKeyboardButton('♻️ GROUP ♻️', url='https://t.me/ML_MOVIE_LOKAM'),
 
           
 
-            InlineKeyboardButton('🔥 dev 🔥', url='https://t.me/mr_groot06')],
+            InlineKeyboardButton('🔥 dev 🔥', url='https://t.me/Bad_Bunny_444')],
 
            [ InlineKeyboardButton('😎 About', callback_data='about'),
 
