@@ -8,7 +8,6 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝚜𝚝𝚎𝚕𝚕𝚊
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Bad_Bunny_444>ᵀʰᵉ вα∂ вυηηу 🇮🇳/🇬🇧</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: KERALA TELEGRAM LIBRARY
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: നല്ല പച്ച മംഗ്ലീഷ്
