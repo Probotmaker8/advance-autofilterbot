@@ -54,10 +54,11 @@ async def start(client, message):
             InlineKeyboardButton('🍂 𝙷𝙴𝙻𝙿', callback_data='help')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        await message.reply_photo(
-            photo=random.choice(PICS),
-            caption=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
+        await message.reply_video(
+            video="https://telegra.ph/file/fc3b31cdbfbe9fcf16cd9.mp4",
+            caption=Script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
             reply_markup=reply_markup,
+            quote=True,
             parse_mode='html'
         )
         return
