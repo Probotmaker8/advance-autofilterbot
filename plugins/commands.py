@@ -56,7 +56,7 @@ async def start(client, message):
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_video(
             video="https://telegra.ph/file/fc3b31cdbfbe9fcf16cd9.mp4",
-            caption=Script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
+            caption=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
             reply_markup=reply_markup,
             quote=True,
             parse_mode='html'
