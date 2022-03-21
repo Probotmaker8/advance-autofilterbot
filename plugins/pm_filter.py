@@ -437,6 +437,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🍂 𝙷𝙴𝙻𝙿', callback_data='help')
 
         ]]
+        await message._client.send_chat_action(chat_id, "typing")
         await query.message.edit_text(
             text="▣▢▢"
         )
