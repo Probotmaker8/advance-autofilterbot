@@ -5,7 +5,7 @@ class script(object):
     time = m.hour
 
     if time < 12:
-    get="Good Morning"
+        get="Good Morning"
     elip time < 15:
           get="Good Afternoon"
     elip time < 20:
