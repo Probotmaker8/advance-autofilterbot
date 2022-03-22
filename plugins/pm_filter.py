@@ -1,5 +1,5 @@
 # Kanged From @TroJanZheX
-import asyncio, datetime
+import asyncio, time
 import datetime
 import re
 import ast
