@@ -23,22 +23,7 @@ BATCH_FILES = {}
 async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
 
-    m = datetime.datetime.now()
-
-    time = m.hour
-
-    if time < 12:
-    get="Good Morning"
-    elip time < 15:
-          get="Good Afternoon"
-    elip time < 20:
-          get="Good Evening"
-    else:
-        get="Good Night"
-
-text = f"""
-{get} {message.from_user.mention}
-        buttons = [
+       buttons = [
             [
                 InlineKeyboardButton('🧬 𝙶𝚁𝙾𝚄𝙿 🧬', url='https://t.me/ML_MOVIE_LOKAM')
             ],
