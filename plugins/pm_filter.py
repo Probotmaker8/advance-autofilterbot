@@ -1,6 +1,5 @@
 # Kanged From @TroJanZheX
-import asyncio, time
-import datetime
+import asyncio
 import re
 import ast
 
@@ -36,23 +35,6 @@ async def give_filter(client, message):
     k = await manual_filters(client, message)
     if k == False:
         await auto_filter(client, message)
-
-    m = datetime.datetime.now()
-
-    time = m.hour
-
-    if time < 12:
-    get="Good Morning"
-    elip time < 15:
-          get="Good Afternoon"
-    elip time < 20:
-          get="Good Evening"
-    else:
-        get="Good Night"
-
-    text = f " " "
-{get} {message.from_user.mention}
-
 
 @Client.on_callback_query(filters.regex(r"^next"))
 async def next_page(bot, query):
