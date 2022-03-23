@@ -123,7 +123,6 @@ async def start(client, message):
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             text=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
-            message.reply_chat_action("typing")
             photo="https://telegra.ph/file/2fea81814bfa2b6a4b5d7.jpg",
             reply_markup=reply_markup
         )
