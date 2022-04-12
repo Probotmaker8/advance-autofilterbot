@@ -29,6 +29,17 @@ logger.setLevel(logging.ERROR)
 BUTTONS = {}
 SPELL_CHECK = {}
 
+IMDB_TEMPLATE = """<b>⍞ ᴛɪᴛʟᴇ</b>: <a href={url}>{title}</a>
+# ɢᴇɴʀᴇ: {genres}
+⌬ ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ: {message.from_user.mention}
+〄 Yᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
+★ ʀᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
+⌬ ʟᴀɴɢᴜᴀɢᴇs: <code>{languages}</code>
+⌥ ʀᴜɴᴛɪᴍᴇ: {runtime} Minutes
+〄 ʀᴇʟᴇᴀꜱᴇ ᴅᴀᴛᴇ: {release_date}
+🅒 uᴘʟᴏᴀᴅᴇᴅ: {query}</b>
+"""
+
 
 @Client.on_message(filters.group & filters.text & ~filters.edited & filters.incoming)
 async def give_filter(client, message):
