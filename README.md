@@ -1,9 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Movies+veres's+Repo!;created+by+MR+MIKEY!;A+simple+tg+FILE+SENDING+bot!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Movies+veres's+Repo!;created+by+BAD+BUNNY!;A+simple+tg+AUTO+FILTER+bot!)</p>
 <p align="center">
   <img src="assets/logo(1).jpg" alt="moviesvers Logo">
 </p>
 <h1 align="center">
-  <b>NARUTO BOT</b>
+  <b>STELLA BOT</b>
 </h1>
 
 ## Features
